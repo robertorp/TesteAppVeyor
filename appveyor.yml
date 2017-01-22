@@ -1,0 +1,12 @@
+version: 1.0.{build}
+build:
+  verbosity: minimal
+notifications:
+- provider: Email
+  to:
+  - aaaaaaaaaa
+  subject: mensagem
+  message: sucesso ou falha rsrs
+  on_build_success: true
+  on_build_failure: true
+  on_build_status_changed: true
