@@ -14,7 +14,7 @@ namespace Teste
         [TestMethod]
         public void Pokemon()
         {
-            Assert.AreEqual("Charmander", "Charmander");
+            Assert.AreEqual("t", "t");
         }
     }
 }
