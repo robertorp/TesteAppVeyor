@@ -16,5 +16,11 @@ namespace Teste
         {
             Assert.AreEqual("t", "t");
         }
+
+        [TestMethod]
+        public void Pokemonx()
+        {
+            Assert.AreEqual("t", "t");
+        }
     }
 }
