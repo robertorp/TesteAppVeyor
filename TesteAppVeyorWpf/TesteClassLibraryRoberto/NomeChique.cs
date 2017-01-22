@@ -11,5 +11,7 @@ namespace TesteClassLibraryRoberto
         public void A() { }
 
         public void B() { }
+
+        public void T() { }
     }
 }
