@@ -9,5 +9,7 @@ namespace TesteClassLibraryRoberto
     public class NomeChique
     {
         public void A() { }
+
+        public void B() { }
     }
 }
