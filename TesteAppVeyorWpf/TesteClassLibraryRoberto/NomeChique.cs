@@ -12,7 +12,10 @@ namespace TesteClassLibraryRoberto
 
         public void B() { }
 
-        public void T() { }
+        public void T()
+        {
+            var t = "T";
+        }
 
         public void Roberto()
         {
