@@ -28,5 +28,11 @@ namespace Teste
         {
             Assert.AreEqual("a", "a");
         }
+
+        [TestMethod]
+        public void TesteMaisTeste()
+        {
+            Assert.AreEqual("a", "a");
+        }
     }
 }
