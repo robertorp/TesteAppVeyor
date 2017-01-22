@@ -22,5 +22,11 @@ namespace Teste
         {
             Assert.AreEqual("t", "t");
         }
+
+        [TestMethod]
+        public void TesteNovo()
+        {
+            Assert.AreEqual("a", "a");
+        }
     }
 }
