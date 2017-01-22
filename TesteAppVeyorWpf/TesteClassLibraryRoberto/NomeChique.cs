@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TesteClassLibraryRoberto
 {
-    public class Class1
+    public class NomeChique
     {
+        public void A() { }
+
+        public void B() { }
     }
 }
